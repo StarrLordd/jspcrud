@@ -25,6 +25,7 @@ public String getPassword() {
 }
 public void setPassword(String password) {
 	this.password = password;
+	//Set Passsword
 }
 public String getEmail() {
 	return email;
