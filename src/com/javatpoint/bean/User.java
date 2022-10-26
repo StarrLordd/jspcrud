@@ -13,6 +13,7 @@ public void setId(int id) {
 }
 public String getName() {
 	return name;
+	//Get Name
 }
 public void setName(String name) {
 	this.name = name;
