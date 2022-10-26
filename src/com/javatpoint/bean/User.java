@@ -5,9 +5,11 @@ private int id;
 private String name,password,email,sex,country;
 public int getId() {
 	return id;
+	//Get ID
 }
 public void setId(int id) {
 	this.id = id;
+	//Set ID
 }
 public String getName() {
 	return name;
