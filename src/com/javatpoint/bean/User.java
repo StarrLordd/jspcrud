@@ -37,6 +37,7 @@ public void setEmail(String email) {
 }
 public String getSex() {
 	return sex;
+	//Get Gender
 }
 public void setSex(String sex) {
 	this.sex = sex;
