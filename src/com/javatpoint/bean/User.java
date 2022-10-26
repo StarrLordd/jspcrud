@@ -29,6 +29,7 @@ public void setPassword(String password) {
 }
 public String getEmail() {
 	return email;
+	//Get Email
 }
 public void setEmail(String email) {
 	this.email = email;
