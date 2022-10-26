@@ -21,6 +21,7 @@ public void setName(String name) {
 }
 public String getPassword() {
 	return password;
+	//Get Password
 }
 public void setPassword(String password) {
 	this.password = password;
