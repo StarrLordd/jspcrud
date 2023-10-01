@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>Sorry, an error occured!</p>
+<p>Sorry, an error occured! Please Try</p>
 <jsp:include page="userform.html"></jsp:include>
 
 </body>
