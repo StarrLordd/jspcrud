@@ -9,7 +9,7 @@
 <body>
 
 <a href="adduserform.jsp" target="_blank">+Add User</a>
-<a href="viewusers.jsp">View Users</a>
+<a href="viewusers.jsp" target="_blank">View Users</a>
 
 </body>
 </html>
