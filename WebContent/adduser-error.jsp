@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>Sorry, an error occured!</p><a href="adduser-error.html">Please Try</a>
+<p>Sorry, an error occured!</p><a href="adduser-error.jsp">Please Try</a>
 <jsp:include page="userform.html"></jsp:include>
 
 </body>
