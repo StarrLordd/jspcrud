@@ -3,7 +3,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Add User Success</title>
-<style></style>
+<style>
+  .link{
+    color:orange;
+  }
+</style>
 </head>
 <body>
 
