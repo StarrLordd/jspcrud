@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p style="font-size:20px">Record successfully saved!</p>
+<p class="para">Record successfully saved!</p>
 <jsp:include page="userform.html"></jsp:include>
 
 </body>
